@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lyubomir Iliev</h1>
 <h3 align="center">Highly motivated, hard working, organized and reliable team player.</h3>
 
-- 🔭 I’m currently working on [MobileBG - Redesign](https://github.com/lyubomiriliev/MobileBG-Redesign)
-
-- 🌱 I’m currently learning **GraphQL, MongoDB & Python**
 
 - 👨‍💻 All of my projects are available at [https://lyubomir-iliev.vercel.app/](https://lyubomir-iliev.vercel.app/)
 
