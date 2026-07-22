@@ -2,7 +2,7 @@
 <h3 align="center">Highly motivated, hard working, organized and reliable team player.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://lyubomir-iliev.vercel.app/](https://lyubomir-iliev.vercel.app/)
+- 👨‍💻 All of my projects are available at https://avivadigital.bg/work/
 
 - 📫 How to reach me **iliev.lyubomir98@gmail.com**
 
